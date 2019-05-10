@@ -1,0 +1,14 @@
+*   bf68783 (HEAD -> master) Merge risolto
+|\  
+| * cdb04e5 (home) Inserito colore blu allo sfondo
+| * 2bf25b7 Inserita immagine per la cartella Home
+| *   ea5ca7b Fusione Ramo Contatti
+| |\  
+| | * 93e64ed (contatti) Inserito file css per i widget
+| | * 08340ef Creata la pagina contatti
+| * | 53c06ec Creata Pagina Home
+| |/  
+* | 03bea32 Inserito colore rosso allo sfondo
+* | ac033b5 Inserita Immagine
+|/  
+* f517808 Prima Commit
